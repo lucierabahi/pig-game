@@ -1,6 +1,7 @@
 # pig-game
 ## Javascript DOM manipulation
-A project realized as part of the "Complete JavaScript Course" of Jonas Schmedtmann on Udemy.   
+A project realized as part of the "Complete JavaScript Course" of Jonas Schmedtmann on Udemy.          
+Design adapted for my liking.        
                                                                
 ![alt game snapshot](https://raw.githubusercontent.com/lucierabahi/pig-game/master/screen.jpg)
 
